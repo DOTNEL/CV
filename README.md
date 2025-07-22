@@ -178,9 +178,7 @@ Soy un profesional apasionado por la innovación en medios digitales, con expert
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=docnelsondiaz&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=docnelsondiaz&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOTNEL&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 </div>
 
