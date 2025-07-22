@@ -133,8 +133,58 @@ Soy un profesional apasionado por la innovación en medios digitales, con expert
   *Universidad Privada del Norte* (Mar 2015 - Jun 2022)
 
 ### 📜 **Certificaciones**
-- **🌎 Programa Intermedio de Inglés**  
-  *ICPNA - Instituto Cultural Peruano Norteamericano* (Oct 2020)
+
+<div align="center">
+
+<!-- Versión GitHub - Slider simulado con tabla -->
+<table style="background: #000; border-radius: 15px; padding: 20px;">
+<tr>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/fd57978c-5006-4dee-87e3-a432968b06de">
+<img src="https://github.com/user-attachments/assets/fd57978c-5006-4dee-87e3-a432968b06de" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 1"/>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/7a7b170e-297f-45cd-915b-3075a1ec6a5f">
+<img src="https://github.com/user-attachments/assets/7a7b170e-297f-45cd-915b-3075a1ec6a5f" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 2"/>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/e7d583a8-59d8-4026-9230-ac117273e813">
+<img src="https://github.com/user-attachments/assets/e7d583a8-59d8-4026-9230-ac117273e813" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 3"/>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/29abde5c-0eb7-4bfe-b013-83178a4df021">
+<img src="https://github.com/user-attachments/assets/29abde5c-0eb7-4bfe-b013-83178a4df021" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 4"/>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/3460bd3c-1069-458a-9cb4-d5aed26c88c0">
+<img src="https://github.com/user-attachments/assets/3460bd3c-1069-458a-9cb4-d5aed26c88c0" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 5"/>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/70ccee85-1db1-43d9-a3c2-d7d5eba53938">
+<img src="https://github.com/user-attachments/assets/70ccee85-1db1-43d9-a3c2-d7d5eba53938" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 6"/>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/50dd7133-7469-4b2b-8f93-240f5d6dfc9c">
+<img src="https://github.com/user-attachments/assets/50dd7133-7469-4b2b-8f93-240f5d6dfc9c" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 7"/>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/user-attachments/assets/f1ac8bd0-2bb9-4796-b325-0d7bd2dd6b80">
+<img src="https://github.com/user-attachments/assets/f1ac8bd0-2bb9-4796-b325-0d7bd2dd6b80" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 8"/>
+</a>
+</td>
+</tr>
+</table>
+
+[![Ver Slider Interactivo](https://img.shields.io/badge/🎯%20Ver%20Slider%20Interactivo-Certificados-FF6B6B?style=for-the-badge&logoColor=white)](#certificados-interactivos)
+
+</div>
 
 ---
 
@@ -178,7 +228,9 @@ Soy un profesional apasionado por la innovación en medios digitales, con expert
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOTNEL&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=docnelsondiaz&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=docnelsondiaz&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
