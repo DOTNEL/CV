@@ -133,56 +133,57 @@ Soy un profesional apasionado por la innovación en medios digitales, con expert
   *Universidad Privada del Norte* (Mar 2015 - Jun 2022)
 
 ### 📜 **Certificaciones**
+- **🌎 Programa Intermedio de Inglés**  
+  *ICPNA - Instituto Cultural Peruano Norteamericano* (Oct 2020)
+
+---
+
+## 🏅 Galería de Certificados
 
 <div align="center">
 
-<!-- Versión GitHub - Slider simulado con tabla -->
-<table style="background: #000; border-radius: 15px; padding: 20px;">
+### 📋 **Certificaciones Profesionales & Académicas**
+
+<div style="background: #000000; padding: 20px; border-radius: 10px; margin: 10px 0;">
+
+<table>
 <tr>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/fd57978c-5006-4dee-87e3-a432968b06de">
-<img src="https://github.com/user-attachments/assets/fd57978c-5006-4dee-87e3-a432968b06de" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 1"/>
-</a>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/fd57978c-5006-4dee-87e3-a432968b06de" alt="Certificado 1" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/7a7b170e-297f-45cd-915b-3075a1ec6a5f">
-<img src="https://github.com/user-attachments/assets/7a7b170e-297f-45cd-915b-3075a1ec6a5f" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 2"/>
-</a>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/7a7b170e-297f-45cd-915b-3075a1ec6a5f" alt="Certificado 2" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/e7d583a8-59d8-4026-9230-ac117273e813">
-<img src="https://github.com/user-attachments/assets/e7d583a8-59d8-4026-9230-ac117273e813" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 3"/>
-</a>
+</tr>
+<tr>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/e7d583a8-59d8-4026-9230-ac117273e813" alt="Certificado 3" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/29abde5c-0eb7-4bfe-b013-83178a4df021">
-<img src="https://github.com/user-attachments/assets/29abde5c-0eb7-4bfe-b013-83178a4df021" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 4"/>
-</a>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/29abde5c-0eb7-4bfe-b013-83178a4df021" alt="Certificado 4" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/3460bd3c-1069-458a-9cb4-d5aed26c88c0">
-<img src="https://github.com/user-attachments/assets/3460bd3c-1069-458a-9cb4-d5aed26c88c0" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 5"/>
-</a>
+</tr>
+<tr>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/3460bd3c-1069-458a-9cb4-d5aed26c88c0" alt="Certificado 5" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/70ccee85-1db1-43d9-a3c2-d7d5eba53938">
-<img src="https://github.com/user-attachments/assets/70ccee85-1db1-43d9-a3c2-d7d5eba53938" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 6"/>
-</a>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/70ccee85-1db1-43d9-a3c2-d7d5eba53938" alt="Certificado 6" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/50dd7133-7469-4b2b-8f93-240f5d6dfc9c">
-<img src="https://github.com/user-attachments/assets/50dd7133-7469-4b2b-8f93-240f5d6dfc9c" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 7"/>
-</a>
+</tr>
+<tr>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/50dd7133-7469-4b2b-8f93-240f5d6dfc9c" alt="Certificado 7" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
-<td align="center" width="12.5%">
-<a href="https://github.com/user-attachments/assets/f1ac8bd0-2bb9-4796-b325-0d7bd2dd6b80">
-<img src="https://github.com/user-attachments/assets/f1ac8bd0-2bb9-4796-b325-0d7bd2dd6b80" width="120" height="85" style="border-radius: 8px; border: 2px solid #333; transition: all 0.3s ease;" alt="Certificado 8"/>
-</a>
+<td align="center" style="background: #000000; padding: 10px;">
+<img src="https://github.com/user-attachments/assets/f1ac8bd0-2bb9-4796-b325-0d7bd2dd6b80" alt="Certificado 8" width="300" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(255,255,255,0.1);"/>
 </td>
 </tr>
 </table>
 
-[![Ver Slider Interactivo](https://img.shields.io/badge/🎯%20Ver%20Slider%20Interactivo-Certificados-FF6B6B?style=for-the-badge&logoColor=white)](#certificados-interactivos)
+</div>
+
+> 💡 **Haz clic en cualquier certificado para verlo en tamaño completo**
 
 </div>
 
